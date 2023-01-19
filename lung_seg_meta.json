@@ -1,0 +1,68 @@
+{
+  "ContentCreatorName": "MIDRC",
+  "ClinicalTrialSeriesID": "0",
+  "ClinicalTrialTimePointID": "0",
+  "SeriesDescription": "Segmentation",
+  "SeriesNumber": "300",
+  "InstanceNumber": "1",
+  "BodyPartExamined": "Chest",
+  "segmentAttributes": [
+    [
+      {
+        "labelID": 1,
+        "SegmentDescription": "Right lung",
+        "SegmentAlgorithmType": "AUTOMATIC",
+        "SegmentAlgorithmName": "lungmask R231",
+        "SegmentedPropertyCategoryCodeSequence": {
+          "CodeValue": "123037004",
+          "CodingSchemeDesignator": "SCT",
+          "CodeMeaning": "Anatomical Structure"
+        },
+        "SegmentedPropertyTypeCodeSequence": {
+          "CodeValue": "39607008",
+          "CodingSchemeDesignator": "SCT",
+          "CodeMeaning": "Lung"
+        },
+        "SegmentedPropertyTypeModifierCodeSequence": {
+          "CodeValue": "24028007",
+          "CodingSchemeDesignator": "SCT",
+          "CodeMeaning": "Right"
+        },
+        "recommendedDisplayRGBValue": [
+          11,
+          156,
+          191
+        ]
+      },
+      {
+        "labelID": 2,
+        "SegmentDescription": "Left lung",
+        "SegmentAlgorithmType": "AUTOMATIC",
+        "SegmentAlgorithmName": "lungmask R231",
+        "SegmentedPropertyCategoryCodeSequence": {
+          "CodeValue": "123037004",
+          "CodingSchemeDesignator": "SCT",
+          "CodeMeaning": "Anatomical Structure"
+        },
+        "SegmentedPropertyTypeCodeSequence": {
+          "CodeValue": "39607008",
+          "CodingSchemeDesignator": "SCT",
+          "CodeMeaning": "Lung"
+        },
+        "SegmentedPropertyTypeModifierCodeSequence": {
+          "CodeValue": "7771000",
+          "CodingSchemeDesignator": "SCT",
+          "CodeMeaning": "Left"
+        },
+        "recommendedDisplayRGBValue": [
+          91,
+          154,
+          223
+        ]
+      }
+    ]
+  ],
+  "ContentLabel": "SEGMENTATION",
+  "ContentDescription": "Image segmentation",
+  "ClinicalTrialCoordinatingCenterName": "dcmqi"
+}
