@@ -1,0 +1,3 @@
+segment,Finding_CodingSchemeDesignator,Finding_CodeValue,Finding_CodeMeaning,FindingSite_CodingSchemeDesignator,FindingSite_CodeValue,FindingSite_CodeMeaning,FindingSite_CodingSchemeDesignator,FindingLaterality_CodeValue,FindingSite_CodeMeaning
+Right lung,SCT,123037004,Anatomical Structure,SCT,39607008,Lung,SCT,24028007,Right
+Left lung,SCT,123037004,Anatomical Structure,SCT,39607008,Lung,SCT,7771000,Left
